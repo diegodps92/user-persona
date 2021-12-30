@@ -1,0 +1,2 @@
+# user-persona
+The analysis shows how can we make a user persona with Machine Learning non-supervised to then make different strategies when we segment our different customers. For example, in this analysis of a survey of use of technology, we found that we could separete the analysis in personal, demographics, and behavior charactheritics. After we clustered the customers we found that the clusters 3 and 4 had the highest number of people, so the subsequent analysis and strategies will target these clusters. 
